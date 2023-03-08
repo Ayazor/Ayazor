@@ -2,7 +2,9 @@
 ![Profile views](https://gpvc.arturio.dev/Ayazor)  
 Skills: Economics / Python / Algorithms
 
+
 [![codewars](https://www.codewars.com/users/Ayazoro/badges/large)](https://www.codewars.com/users/Ayazoro)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ayazor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 - 🔭 I’m currently working on my research on Smartbeta financial strategies 
