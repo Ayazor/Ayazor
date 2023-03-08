@@ -2,6 +2,7 @@
 
 Skills: Economics / Python / Algorithms
 
+[![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/Ayazoro)
 - 🔭 I’m currently working on my research on Smartbeta financial strategies 
 - 🌱 I’m currently learning Economics and Finance. And a little bit of a programming 
 - 🤔 I’m looking for help with my research work 
