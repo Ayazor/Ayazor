@@ -4,11 +4,7 @@ Skills: Economics / Python / Algorithms
 
 [![codewars](https://www.codewars.com/users/Ayazoro/badges/large)](https://www.codewars.com/users/Ayazoro)
 
-### LeetCode Stats
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Ayazor&theme=dark" width="400"/>
-</a>
-### [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ayazor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ayazor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 - 🔭 I’m currently working on my research on Smartbeta financial strategies 
 - 🌱 I’m currently learning Economics and Finance. And a little bit of a programming 
