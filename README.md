@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ayaz
-
+![Profile views](https://gpvc.arturio.dev/Ayazor)  
 Skills: Economics / Python / Algorithms
 
 [![codewars](https://www.codewars.com/users/Ayazoro/badges/large)](https://www.codewars.com/users/Ayazoro)
