@@ -3,13 +3,14 @@
 Skills: Economics / Python / Algorithms
 
 
+- 🔭 I’m currently working on my research on Smartbeta financial strategies 
+- 🌱 I’m currently learning Economics and Finance. And a little bit of a programming 
+- 🤔 I’m looking for help with my research work 
+
 [![codewars](https://www.codewars.com/users/Ayazoro/badges/large)](https://www.codewars.com/users/Ayazoro)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ayazor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-- 🔭 I’m currently working on my research on Smartbeta financial strategies 
-- 🌱 I’m currently learning Economics and Finance. And a little bit of a programming 
-- 🤔 I’m looking for help with my research work 
 
 ### Connect with me:
 <p align="left">
