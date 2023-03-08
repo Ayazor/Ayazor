@@ -7,7 +7,10 @@ Skills: Economics / Python / Algorithms
 - 🌱 I’m currently learning Economics and Finance. And a little bit of a programming 
 - 🤔 I’m looking for help with my research work 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ayazor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Ayazoro)  
+### Connect with me:
+<p align="left">
+<a href="https://t.me/Ayazoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Ayazoro" height="40" width="40" /></a>
+<a href="https://vk.com/ayaz0r0" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="ayaz0r0" height="40" width="40" /></a>
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/Ayazor)  
