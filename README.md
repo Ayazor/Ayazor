@@ -9,7 +9,8 @@ Skills: Economics / Python / Algorithms
 
 [![codewars](https://www.codewars.com/users/Ayazoro/badges/large)](https://www.codewars.com/users/Ayazoro)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ayazor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!--Включи leetcode, когда будет достаточно решенных задач-->
+<!--[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ayazor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)-->
 
 
 ### Connect with me:
